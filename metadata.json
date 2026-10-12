@@ -1,0 +1,6 @@
+{
+  "name": "NusaStore",
+  "description": "Platform Toko Online Modern Indonesia dengan Integrasi RajaOngkir, Katalog Produk, Keranjang, Checkout, dan Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
